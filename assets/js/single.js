@@ -48,7 +48,7 @@ var getRepoIssues = function(repo) {
       });
     }
     else {
-      document.location.replace("./index.html");
+    document.location.replace("./index.html");
     }
   });
 }    
